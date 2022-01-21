@@ -1,0 +1,39 @@
+{
+  "name": "cra-template-mui",
+  "version": "1.0.0",
+  "description": "A quick start Create React App template with React Router, GraphQL, TypeScript, Material UI, Husky and custom ESlint configurations",
+  "main": "template.json",
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-acedevs/cra-template-mui.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template",
+    "eslint",
+    "react-router",
+    "react-router-dom",
+    "typescript",
+    "graphql",
+    "prettier",
+    "husky",
+    "vitejs"
+  ],
+  "author": "Albrim Paqarizi <albrimpa@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.14.1 <16.13.0"
+  },
+  "bugs": {
+    "url": "https://github.com/js-acedevs/cra-template-mui/issues"
+  },
+  "homepage": "https://github.com/js-acedevs/cra-template-mui#readme",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
+}
