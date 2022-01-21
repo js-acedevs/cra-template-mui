@@ -19,7 +19,10 @@ yarn create-react-app my-app --template mui
 ```
 
 
-From github run: `npx create-react-app --template=git+https://github.com/js-acedevs/cra-template-mui.git <project_name>`
+From github run:
+ ```sh
+npx create-react-app --template=git+https://github.com/js-acedevs/cra-template-mui.git my-app
+ ```
 
 ## Tools
 
