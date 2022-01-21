@@ -1,0 +1,4 @@
+# Ignore artifacts:
+coverage
+template/
+node_modules/
